@@ -10,7 +10,7 @@ Exemplo de API em Node.js usando Hapi.js
 
 ## clone o repositório 
 
-`git clone https://github.com/4lexRossi/node-js-mongooseCRUD.git`
+`git clone https://github.com/4lexRossi/node-hapiJS-CRUD.git`
 
 ## Instalar dependências
 ```
